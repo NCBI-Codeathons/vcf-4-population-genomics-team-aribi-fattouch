@@ -51,22 +51,21 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
 ## Contributors
 
 Hiba Ben Aribi (tech Leader - writer)
+
 University of Tunis El Manar Tunis, Tunisia
 
-Sami Fattouch 
-(team leader- writer)
+Sami Fattouch (team leader- writer)
 
-Gebre Meskelmamu Werid
-gebremeskelmamu.werid@adelaide.edu.au
+INSAT, UCAR, Tunis, Tunisia
 
 
-Nanami Kubota(developer)
+Nanami Kubota (developer)
+
 University of Pittsburgh, USA
 
 
-Tamas Szabo
-(Flex)
-szabogtamas@gmail.com
+Tamas Szabo (Flex)
+
 
 Josue Togo
 josuetogo@icermali.org
@@ -74,6 +73,9 @@ josuetogo@icermali.org
 
 Maria Jose
 mariajose.genetics@gmail.com
+
+Gebre Meskelmamu Werid
+gebremeskelmamu.werid@adelaide.edu.au
 
 
 
