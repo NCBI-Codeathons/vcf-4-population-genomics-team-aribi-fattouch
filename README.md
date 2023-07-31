@@ -3,16 +3,13 @@
 ## Table of Contents
 
 1. [Background](#Background)
-2. Project Goals
-3. [Project Goals](#Implementation-and-Operation)
-4. [Approach](Approach)
-5. [Results](Results)
-6. [Future Work](Future Work)
+2. [AboutTool](#AboutTool)
+3. [Project Goals](#Project Goals)
+4. [Approach](#Approach)
+5. [Results](#Results)
+6. [Future Work](#Future-Work)
 7. [Contributors](#Contributors)
 <br>
-
-# Team Project Name
-
 
 ## Project Goals
 The aim of this project is to develop an advanced tool in the form of a Shiny application and an accompanying R package for visualizing SARS-CoV-2 variants using VCF files
