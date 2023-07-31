@@ -4,7 +4,7 @@
 
 1. [Background](#Background)
 2. [AboutTool](#AboutTool)
-3. [Project Goals](#Project Goals)
+3. [Project Goals](#Project-Goals)
 4. [Approach](#Approach)
 5. [Results](#Results)
 6. [Future Work](#Future-Work)
