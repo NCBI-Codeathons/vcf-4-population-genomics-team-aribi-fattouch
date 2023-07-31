@@ -1,4 +1,4 @@
-# [Tool name] : a tool for Genetic variation visua
+# [Tool name] : a tool for SARSCOV2 Genetic variation visualization
 
 ## Table of Contents
 
