@@ -67,17 +67,17 @@ The package could be installed as follows:
 
 The tool is: 
    
-   Requiement: basic computational skills to use ( install R package and run it)
+    Requiement: basic computational skills to use ( install R package and run it)
    
-   platform independency : 
+    platform independency : 
    
-   libraries dependencies : all dependencies are installed automatically with the tool
+    libraries dependencies : all dependencies are installed automatically with the tool
    
-   Internet requirement:
+    Internet requirement:
    
-   Third party tools requirement: R studio or a online Server
+    Third party tools requirement: R studio or a online Server
    
-   Pre-requirements: R installation
+    Pre-requirements: R installation
    
 ### Usage
 <br>
