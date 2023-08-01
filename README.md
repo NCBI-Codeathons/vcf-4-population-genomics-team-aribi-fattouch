@@ -5,12 +5,14 @@
 1. [Project Goals](#Project-Goals)
 2. [Approach](#Approach)
 3. [Results](#Results)
-4.1. [About the tool](#About-the-tool) 
-4.2. [Installation](#Installation)
-4.3. [Implementation and Operation](#Implementation-and-Operation)
-4.4. [Usage](#Usage)
-5. [Future Work](#Future-Work)
-6. [Contributors](#Contributors)
+   
+3.1. [About the tool](#About-the-tool) 
+3.2. [Installation](#Installation)
+3.3. [Implementation and Operation](#Implementation-and-Operation)
+3.4. [Usage](#Usage)
+
+4. [Future Work](#Future-Work)
+5. [Contributors](#Contributors)
 <br>
 
 ## Project Goals
@@ -64,12 +66,13 @@ The package could be installed as follows:
     Library([ Tool name] )
    
    ### Implementation and Operation
-- Requiement: basic computational skills to use ( install R package and run it)
-- platform independency : 
-- libraries dependencies : all dependencies are installed automatically with the tool
-- Internet requirement: 
-- Third party tools requirement: R studio or a online Server
-- Pre-requirements: R installation
+   
+   Requiement: basic computational skills to use ( install R package and run it)
+   platform independency : 
+   libraries dependencies : all dependencies are installed automatically with the tool
+   Internet requirement:
+   Third party tools requirement: R studio or a online Server
+   Pre-requirements: R installation
    
    ### Usage
 
