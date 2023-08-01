@@ -66,10 +66,15 @@ The package could be installed as follows:
 ### Implementation and Operation
    
    Requiement: basic computational skills to use ( install R package and run it)
+   
    platform independency : 
+   
    libraries dependencies : all dependencies are installed automatically with the tool
+   
    Internet requirement:
+   
    Third party tools requirement: R studio or a online Server
+   
    Pre-requirements: R installation
    
 ### Usage
