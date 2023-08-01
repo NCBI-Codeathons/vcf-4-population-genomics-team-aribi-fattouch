@@ -5,19 +5,22 @@
 1. [Project Goals](#Project-Goals)
 2. [Approach](#Approach)
 3. [Results](#Results)
-   
+ <br>  
 3.1. [About the tool](#About-the-tool) 
+<br>
 3.2. [Installation](#Installation)
+   <br>
 3.3. [Implementation and Operation](#Implementation-and-Operation)
+   <br>
 3.4. [Usage](#Usage)
-
+<br>
 4. [Future Work](#Future-Work)
 5. [Contributors](#Contributors)
 <br>
 
 ## Project Goals
 The aim of this project is to develop an advanced tool in the form of a Shiny application, deployed as an R package, for visualizing SARS-CoV-2 variants using VCF files
-
+<br><br>
 ## Approach
 
 1. Define the Project Scope and Objectives: 
@@ -49,11 +52,11 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
 
 
 ## Results
-
-   ### About the tool
+<br><br>
+### About the tool
+  <br><br><br><br> 
    
-   
-   ### Installation
+### Installation
 
 The package could be installed as follows:
 
@@ -65,7 +68,7 @@ The package could be installed as follows:
 
     Library([ Tool name] )
    
-   ### Implementation and Operation
+### Implementation and Operation
    
    Requiement: basic computational skills to use ( install R package and run it)
    platform independency : 
@@ -74,13 +77,14 @@ The package could be installed as follows:
    Third party tools requirement: R studio or a online Server
    Pre-requirements: R installation
    
-   ### Usage
-
+### Usage
+<br>
+<br>
 
 
 ## Future Work
 
-
+<br><br><br>
 
 
 ## Contributors
