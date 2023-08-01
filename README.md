@@ -2,21 +2,23 @@
 
 ## Table of Contents
 
-1. [Background](#Background)
-2. [AboutTool](#AboutTool)
-3. [Project Goals](#Project-Goals)
-4. [Approach](#Approach)
-5. [Results](#Results)
-6. [Future Work](#Future-Work)
-7. [Contributors](#Contributors)
+1. [Project Goals](#Project-Goals)
+2. [Approach](#Approach)
+3. [Results](#Results)
+4. [About the tool](#About-the-tool)
+5. [Installation](#Installation)
+6. [Implementation and Operation](#Implementation-and-Operation)
+7. [Usage](#Usage)
+8. [Future Work](#Future-Work)
+9. [Contributors](#Contributors)
 <br>
 
 ## Project Goals
-The aim of this project is to develop an advanced tool in the form of a Shiny application and an accompanying R package for visualizing SARS-CoV-2 variants using VCF files
-
+The aim of this project is to develop an advanced tool in the form of a Shiny application, deployed as an R package, for visualizing SARS-CoV-2 variants using VCF files
+<br><br>
 ## Approach
 
-1. Define the Project Scope and Objectives:
+1. Define the Project Scope and Objectives: 
    - Clearly outline the goals and objectives of the tool 
    - Identify the specific features, types of visualizations, and functionalities to include in the Shiny application
 
@@ -45,39 +47,60 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
 
 
 ## Results
+<br><br>
+### About the tool
+  <br><br><br><br> 
+   
+### Installation
+
+The package could be installed as follows:
+
+    install.packages("devtools")
+
+    Library(devtools)
+
+    devtools::install_github("NCBI-Codeathons/vcf-4-population-genomics-team-aribi-fattouch/Package")
+
+    Library([ Tool name] )
+   
+### Implementation and Operation
+
+The tool is: 
+   
+    Requiement: basic computational skills to use ( install R package and run it)
+   
+    platform independency : 
+   
+    libraries dependencies : all dependencies are installed automatically with the tool
+   
+    Internet requirement:
+   
+    Third party tools requirement: R studio or a online Server
+   
+    Pre-requirements: R installation
+   
+### Usage
+<br>
+<br>
+
 
 ## Future Work
 
+<br><br><br>
+
+
 ## Contributors
 
-Hiba Ben Aribi (tech Leader - writer)
-
-University of Tunis El Manar Tunis, Tunisia
-
-Sami Fattouch (team leader- writer)
-
-INSAT, UCAR, Tunis, Tunisia
+- Hiba Ben Aribi (tech Leader ) - University of Tunis El Manar Tunis, Tunisia
 
 
-Nanami Kubota (developer)
-
-University of Pittsburgh, USA
+- Sami Fattouch ( writer) - INSAT, UCAR, Tunis, Tunisia
 
 
-Tamas Szabo (Flex)
+- Nanami Kubota (developer) - -University of Pittsburgh, USA
 
 
-Josue Togo
-josuetogo@icermali.org
+- Tamas Szabo (Flex)
 
 
-Maria Jose
-mariajose.genetics@gmail.com
-
-Gebre Meskelmamu Werid
-gebremeskelmamu.werid@adelaide.edu.au
-
-
-
-
-
+- Gebre Meskelmamu Werid
