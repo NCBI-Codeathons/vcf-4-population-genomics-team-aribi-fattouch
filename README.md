@@ -5,17 +5,12 @@
 1. [Project Goals](#Project-Goals)
 2. [Approach](#Approach)
 3. [Results](#Results)
- <br>  
-3.1. [About the tool](#About-the-tool) 
-<br>
-3.2. [Installation](#Installation)
-   <br>
-3.3. [Implementation and Operation](#Implementation-and-Operation)
-   <br>
-3.4. [Usage](#Usage)
-<br>
-4. [Future Work](#Future-Work)
-5. [Contributors](#Contributors)
+4. [About the tool](#About-the-tool)
+5. [Installation](#Installation)
+6. [Implementation and Operation](#Implementation-and-Operation)
+7. [Usage](#Usage)
+8. [Future Work](#Future-Work)
+9. [Contributors](#Contributors)
 <br>
 
 ## Project Goals
