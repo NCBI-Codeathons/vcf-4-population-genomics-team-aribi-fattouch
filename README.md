@@ -46,38 +46,32 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
 
 ## Results
 
+   ### About the tool
+   
+   
+   ### Installation
+   
+   ### Usage
+
+
+
 ## Future Work
+
+
+
 
 ## Contributors
 
-Hiba Ben Aribi (tech Leader - writer)
-
-University of Tunis El Manar Tunis, Tunisia
-
-Sami Fattouch (team leader- writer)
-
-INSAT, UCAR, Tunis, Tunisia
+- Hiba Ben Aribi (tech Leader ) - University of Tunis El Manar Tunis, Tunisia
 
 
-Nanami Kubota (developer)
-
-University of Pittsburgh, USA
+- Sami Fattouch ( writer) - INSAT, UCAR, Tunis, Tunisia
 
 
-Tamas Szabo (Flex)
+- Nanami Kubota (developer) - -University of Pittsburgh, USA
 
 
-Josue Togo
-josuetogo@icermali.org
+- Tamas Szabo (Flex)
 
 
-Maria Jose
-mariajose.genetics@gmail.com
-
-Gebre Meskelmamu Werid
-gebremeskelmamu.werid@adelaide.edu.au
-
-
-
-
-
+- Gebre Meskelmamu Werid
