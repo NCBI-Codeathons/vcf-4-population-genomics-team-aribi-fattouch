@@ -97,10 +97,10 @@ The tool is:
 - Sami Fattouch ( writer) - INSAT, UCAR, Tunis, Tunisia
 
 
-- Nanami Kubota (developer) - -University of Pittsburgh, USA
+- Nanami Kubota (developer) - University of Pittsburgh, USA
 
 
-- Tamas Szabo (Flex)
+- Tamas Szabo (Data analysis) - Institute for Laboratory Medicine, Semmelweis University, Budapest, Hungary
 
 
 - Gebre Meskelmamu Werid
