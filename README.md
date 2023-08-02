@@ -6,51 +6,57 @@
 2. [Approach](#Approach)
 3. [Results](#Results)
 4. [About the tool](#About-the-tool)
-5. [Installation](#Installation)
-6. [Implementation and Operation](#Implementation-and-Operation)
-7. [Usage](#Usage)
+5. [Usage](#Usage)
+6. [Installation](#Installation)
+7. [Implementation and Operation](#Implementation-and-Operation)
 8. [Future Work](#Future-Work)
 9. [Contributors](#Contributors)
 <br>
 
 ## Project Goals
-The aim of this project is to develop an advanced tool in the form of a Shiny application, deployed as an R package, for visualizing SARS-CoV-2 variants using VCF files
+The aim of this project is to develop an advanced tool in the form of a Shiny application, deployed as an R package, for visualizing SARS-CoV-2 variants using VCF files.
 <br><br>
 ## Approach
-
-1. Define the Project Scope and Objectives: 
-   - Clearly outline the goals and objectives of the tool 
-   - Identify the specific features, types of visualizations, and functionalities to include in the Shiny application
-
-2. Gather and Preprocess Data:
-   - Collect publicly available SARS-CoV-2 VCF files 
-   - Preprocess the data 
-
-3.  Data Visualization:
-   - Develop R code to create interactive and informative visualizations of genetic variations.
-
-4. Develop the Shiny Application:
-   - Use the Shiny R package to build the interactive web application.
-   - Integrate the data visualization code within the Shiny app.
-
-5. Create the R Package:
-   - Convert the Shiny application into an R package.
-   - Document the package ( based on Bioconductor best practices)
-
-6. Perform Validation and Testing:
-   - Use publicly available datasets with known results to validate the accuracy and performance of the prediction and characterization tools.
-
-
-7. Documentation and User Guides:
-   - Document the tool on GitHub
-   - Prepare comprehensive documentation and user guides explaining how to use the Shiny application and R package effectively.
+  
+![image](https://github.com/NCBI-Codeathons/vcf-4-population-genomics-team-aribi-fattouch/assets/73958439/bccd4bcc-d232-4436-8576-eb5b8662993b)
 
 
 ## Results
-<br><br>
+<br>
 ### About the tool
-  <br><br><br><br> 
-   
+  <br>
+[Tool name] is an interactive visualization tool of SARSCOV-2 virus genetic variantion, in relation to diseases comorbidity.
+  
+The initial supported diseases list includes: 
+
+     * Cancer
+       
+     * Autoimmune diseases
+     
+     * neurological  conditions
+       
+     * Diabetes
+
+  <br> 
+
+### Usage
+
+The tool is a shiny application deployed as an R package.
+
+#### Input
+
+The tool requires VCF file as input.
+
+#### Output
+
+Features list : 
+
+   - .
+     
+   - .
+     
+   - .
+  
 ### Installation
 
 The package could be installed as follows:
@@ -79,9 +85,6 @@ The tool is:
    
     Pre-requirements: R installation
    
-### Usage
-<br>
-<br>
 
 
 ## Future Work
@@ -102,5 +105,3 @@ The tool is:
 
 - Tamas Szabo (Data analysis) - Institute for Laboratory Medicine, Semmelweis University, Budapest, Hungary
 
-
-- Gebre Meskelmamu Werid
