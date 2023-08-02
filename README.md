@@ -29,13 +29,13 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
   
 The initial supported diseases list includes: 
 
-   * Cancer
+     * Cancer
+       
+     * Autoimmune diseases
      
-   *Autoimmune diseases
-   
-   * neurological  conditions
-     
-   *Diabetes
+     * neurological  conditions
+       
+     * Diabetes
 
   <br> 
 
@@ -52,7 +52,9 @@ The tool requires VCF file as input.
 Features list : 
 
    - .
+     
    - .
+     
    - .
   
 ### Installation
