@@ -17,8 +17,5 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
 - Sami Fattouch ( writer) - INSAT, UCAR, Tunis, Tunisia
 
 
-- Nanami Kubota (developer) - University of Pittsburgh, USA
-
-
 - Tamas Szabo (Data analysis) - Institute for Laboratory Medicine, Semmelweis University, Budapest, Hungary
 
