@@ -1,0 +1,16 @@
+# Tool workflow 
+
+## R visualization packages for graphing data
+Multiple R librarries are integrated for multiple purposes.
+
+| Package Name   | Description                                                                                     |
+|----------------|-------------------------------------------------------------------------------------------------|
+| ggplot2        | General graphing package                                                                        |
+| RColorBrewer   | Color palettes, including colorblind-friendly palettes                                       |
+| vcfR           | Manipulating VCF data                                                                           |
+| sf             | Manipulating spatial vector data                                                                |
+| gggenomes      | Comparative genomics                                                                            |
+| gggenes        | Gene arrow maps                                                                                 |
+| genoPlotR      | Gene and genome maps                                                                            |
+| ggseqlogo      | Sequence logos                                                                                  |
+

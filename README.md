@@ -22,9 +22,10 @@ The aim of this project is to develop an advanced tool in the form of a Shiny ap
 
 
 ## Results
-<br>
+
 ### About the tool
-  <br>
+
+
 [Tool name] is an interactive visualization tool of SARSCOV-2 virus genetic variantion, in relation to diseases comorbidity.
   
 The initial supported diseases list includes: 
@@ -70,6 +71,7 @@ The package could be installed as follows:
     Library([ Tool name] )
    
 ### Implementation and Operation
+
 
 The tool is: 
    
