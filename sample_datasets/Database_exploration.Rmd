@@ -1,0 +1,38 @@
+---
+title: "`r params$report_title`"
+author: "`r params$report_author`"
+date: "`r params$report_time`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+    code_folding: hide
+    keep_md: true
+params:
+  report_title: "Exploring data available on Athena"
+  report_author: "Tamas Szabo"
+  report_time: !r format(Sys.Date(), format="%d/%m/%Y")
+---
+
+## Metadata fields
+
+```{r}
+library(tidyr)
+library(dplyr)
+```
+
+Retrieve some variation entries
+
+```{sql}
+SELECT distinct Run, variation
+FROM "ncbi-vcf-codeathon-rc-db1"."annotated_variations"
+LIMIT 10
+```
+
+Check what organisms are
+
+```{sql}
+select distinct organism, count(*) from "metadata" group by organism order by count(*) desc limit 10
+```
+
